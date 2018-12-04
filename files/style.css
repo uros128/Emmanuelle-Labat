@@ -90,7 +90,7 @@ p {
 .full-widh-bg.responsive {
   padding-bottom: 0px;
   background-image: url(../files/image/bg1.png);
-  background-size: cover;
+  background-size: auto;
   background-repeat: no-repeat;
 }
 .full-widh-bg.story {
