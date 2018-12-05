@@ -648,6 +648,14 @@ html.w-mod-js.w-mod-no-ios *[data-ix="popup-6"] {
   }
 }
 
+@media (max-width: 800px) {
+.hero {
+
+  padding-top: 30px !important;
+
+}
+}
+
 
 #client.portfolio{
   background-color: white !important;
