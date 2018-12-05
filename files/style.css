@@ -574,7 +574,7 @@ html.w-mod-js.w-mod-no-ios *[data-ix="popup-6"] {
   .name-span {
     font-size: 35px !important;
     border: 0px solid black;
-    line-height: 45px;
+    line-height: 25px;
     text-decoration: none;
   }
   .mouse {
@@ -651,7 +651,7 @@ html.w-mod-js.w-mod-no-ios *[data-ix="popup-6"] {
 @media (max-width: 800px) {
 .hero {
 
-  padding-top: 30px !important;
+  padding-top: 20px !important;
 
 }
 }
