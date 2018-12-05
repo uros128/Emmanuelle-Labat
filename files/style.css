@@ -91,7 +91,9 @@ p {
     padding-bottom: 0px;
   background-position: center;
   background-image: url(../files/image/bg1.png);
-  background-size: cover;
+  
+  width: 100%;
+    height: auto;
 
   background-repeat: no-repeat;
 }
