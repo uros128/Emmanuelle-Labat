@@ -571,7 +571,7 @@ html.w-mod-js.w-mod-no-ios *[data-ix="popup-6"] {
     line-height: 29px;
   }
   .name-span {
-    font-size: 25px;
+    font-size: 35px;
     border: 0px solid black;
     line-height: 45px;
     text-decoration: none;
@@ -637,9 +637,10 @@ html.w-mod-js.w-mod-no-ios *[data-ix="popup-6"] {
 @media (max-width: 800px) {
   .skils {
     line-height: 50px;
+    font-size: 25px;
   }
   .name-span {
-    font-size: 25px;
+    font-size: 30px;
     border: 0px solid black;
     line-height: 50px;
     text-decoration: none;
