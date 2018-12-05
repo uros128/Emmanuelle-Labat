@@ -569,10 +569,10 @@ html.w-mod-js.w-mod-no-ios *[data-ix="popup-6"] {
 @media (max-width: 479px) {
   .skils {
     line-height: 25px !important;
-    font-size: 40px !important;
+    font-size: 25px !important;
   }
   .name-span {
-    font-size: 35px !important;
+    font-size: 45px !important;
     border: 0px solid black;
     line-height: 15px;
     text-decoration: none;
