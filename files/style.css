@@ -571,6 +571,7 @@ html.w-mod-js.w-mod-no-ios *[data-ix="popup-6"] {
     line-height: 29px;
   }
   .name-span {
+    font-size: 25px;
     border: 0px solid black;
     line-height: 63px;
     text-decoration: none;
