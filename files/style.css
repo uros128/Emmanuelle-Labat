@@ -97,7 +97,7 @@ p {
 
 }
 .full-widh-bg.story {
-  background-image: url(../files/image/story-bg.png);
+  background-image: url(image/story-bg.png);
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -626,4 +626,9 @@ html.w-mod-js.w-mod-no-ios *[data-ix="popup-6"] {
   .serv {
     padding-bottom: 20px;
   }
+}
+
+
+.whitus{
+  background-color: white !important;
 }
