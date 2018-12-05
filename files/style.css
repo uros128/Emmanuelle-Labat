@@ -90,8 +90,8 @@ p {
 .full-widh-bg.responsive {
     padding-bottom: 0px;
   background-position: center;
-  background-image: url(../files/image/bg1.png);
-  
+  /*background-image: url(../files/image/bg1.png); */
+
   width: 100%;
     height: auto;
 
