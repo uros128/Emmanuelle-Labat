@@ -573,7 +573,7 @@ html.w-mod-js.w-mod-no-ios *[data-ix="popup-6"] {
   .name-span {
     font-size: 25px;
     border: 0px solid black;
-    line-height: 63px;
+    line-height: 45px;
     text-decoration: none;
   }
   .mouse {
@@ -631,6 +631,18 @@ html.w-mod-js.w-mod-no-ios *[data-ix="popup-6"] {
   }
   .serv {
     padding-bottom: 20px;
+  }
+}
+
+@media (max-width: 800px) {
+  .skils {
+    line-height: 50px;
+  }
+  .name-span {
+    font-size: 25px;
+    border: 0px solid black;
+    line-height: 50px;
+    text-decoration: none;
   }
 }
 
