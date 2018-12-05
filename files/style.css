@@ -546,8 +546,9 @@ html.w-mod-js.w-mod-no-ios *[data-ix="popup-6"] {
   }
   .portfolio {
     padding: 30px 20px;
-    background-color: white;
+
   }
+
   .lightbox {
     padding-top: 20px;
     padding-bottom: 20px;
@@ -630,6 +631,6 @@ html.w-mod-js.w-mod-no-ios *[data-ix="popup-6"] {
 }
 
 
-.whitus{
+#client.portfolio{
   background-color: white !important;
 }
