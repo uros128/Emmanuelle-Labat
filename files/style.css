@@ -88,12 +88,10 @@ p {
   background-color: #344860;
 }
 .full-widh-bg.responsive {
-  width: 100%;
-    height: auto;
     padding-bottom: 0px;
   background-position: center;
   background-image: url(../files/image/bg1.png);
-
+  background-size: cover;
 
   background-repeat: no-repeat;
 }
