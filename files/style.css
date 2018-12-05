@@ -87,14 +87,17 @@ p {
   padding-bottom: 80px;
   background-color: #344860;
 }
-.full-widh-bg.responsive {
-  padding-bottom: 0px;
-  background-image: url(../files/image/bg1.png);
-  background-size: cover;
-  background-repeat: no-repeat;
+.full-widh-bg.responsive img {
+
+  /*background-image: url(../files/image/bg1.png); */
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  width: 100%;
+    height: auto;
+
 }
 .full-widh-bg.story {
-  background-image: url(../files/image/story-bg.png);
+  background-image: url(image/story-bg.png);
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -537,13 +540,18 @@ html.w-mod-js.w-mod-no-ios *[data-ix="popup-6"] {
   .full-widh-bg.story {
     padding: 30px 20px;
   }
+  .full-widh-bg.story {
+    padding: 30px 20px;
+  }
   .img {
     margin-top: -100px;
     padding-top: 0px;
   }
   .portfolio {
     padding: 30px 20px;
+
   }
+
   .lightbox {
     padding-top: 20px;
     padding-bottom: 20px;
@@ -623,4 +631,13 @@ html.w-mod-js.w-mod-no-ios *[data-ix="popup-6"] {
   .serv {
     padding-bottom: 20px;
   }
+}
+
+
+#client.portfolio{
+  background-color: white !important;
+}
+
+.belinapis{
+  color: white !important;
 }
